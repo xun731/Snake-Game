@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+H110_貪食蛇
+</name>
+</assembly>
+<members>
+<member name="T:H110_貪食蛇.My.Resources.Resources">
+<summary>
+  用於查詢當地語系化字串等的強類型資源類別。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.ResourceManager">
+<summary>
+  傳回這個類別使用的快取的 ResourceManager 執行個體。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Culture">
+<summary>
+  覆寫目前執行緒的 CurrentUICulture 屬性，對象是所有
+  使用這個強類型資源類別的資源查閱。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources._720">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Back">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.check3">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Fast">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.FFFFFFFF1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.gameover2">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Gun">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.home3">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.LastPage1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.NextPage1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Pause1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Question">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.restart1_1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.setting1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.snake">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.start">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Word_Apple1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Word_More1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Word_Paint1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Word_挑戰1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Word_蛇身1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Word_速度1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.Word_音量1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.挑戰版說明1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.毒蘋果說明1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.背景1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.說明1">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.貪食蛇">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.遊戲說明">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+<member name="P:H110_貪食蛇.My.Resources.Resources.飯糰">
+<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member>
+</members>
+</doc>

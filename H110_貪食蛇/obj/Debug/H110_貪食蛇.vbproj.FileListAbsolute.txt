@@ -1,0 +1,108 @@
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.StartForm.resources
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.Resources.resources
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe.config
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\bin\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\bin\Debug\H110_貪食蛇.xml
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.xml
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.PlayingForm.resources
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.Game.resources
+C:\Users\USER\Desktop\H11003\H110_貪食蛇\H110_貪食蛇\obj\Debug\H110_貪食蛇.Finish.resources
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.xml
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe.config
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\bin\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\bin\Debug\H110_貪食蛇.xml
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Finish.resources
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.StartForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.PlayingForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Game.resources
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Resources.resources
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\H110_貪食蛇(可用舊版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe.config
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\bin\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\bin\Debug\H110_貪食蛇.xml
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Finish.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.StartForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.PlayingForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Game.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Resources.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.xml
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.ResolveComReference.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New)\H110_貪食蛇\obj\Debug\H110_貪食蛇.SettingForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe.config
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\bin\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\bin\Debug\H110_貪食蛇.xml
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.ResolveComReference.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Finish.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.SettingForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.StartForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.PlayingForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Game.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Resources.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.xml
+C:\Users\USER\Desktop\H110_貪食蛇(New) (2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.ResolveComReference.cache
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Finish.resources
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.SettingForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.StartForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.PlayingForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Game.resources
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.xml
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.ResolveComReference.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Finish.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.SettingForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.StartForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.PlayingForm.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Game.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.xml
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Resources.resources
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe.config
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\bin\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H110_貪食蛇(New)(2)\H110_貪食蛇\bin\Debug\H110_貪食蛇.xml
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.Resources.resources
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\obj\Debug\H110_貪食蛇.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe.config
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\bin\Debug\H110_貪食蛇.exe
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\bin\Debug\H110_貪食蛇.pdb
+C:\Users\USER\Desktop\H110_貪食蛇(精選版)\H110_貪食蛇\bin\Debug\H110_貪食蛇.xml
